@@ -3,8 +3,9 @@ Satheesh Kumar Mohan
 
 ----
 
->   Data Analysis in Python (Matplotlib), R (ggplot), D3.js and SQL.\
->   Working knowledge of Keras (with Tensorflow)
+> Experienced Computer Scientist with a demonstrated history of working in the computer software and Digital Marketing industry.
+> Skilled in Deep Learning, Spark, Python, PostgreSQL, GNU/Linux, and Data Analysis.
+> Strong engineering professional with a Bachelor of Technology focused in Information Technology from Anna University.
 
 ----
 
@@ -14,8 +15,8 @@ Experience
 Feb 2017 - Now
 :   Engineering Manager, Experience Cloud Platform (Adobe)
 
-    * Building an image tagging system for retailers using Deep Learning.
-    * Worked on data collection and prototyping product recommender system.
+    * Leading the team on object detection, image tagging system and retrieval using Deep Learning. 
+    * Worked on data collection and prototyping product recommender system using Spark. 
     * Lead the team to build a Scala/Spark machine learning server which enables managing, training and scoring an engine using Microsoft Azure (HDInsights).
 
 Feb 2015 - Jan 2017
@@ -31,20 +32,19 @@ Feb 2015 - Jan 2017
 Jul 2012 - Jan 2015
 :   MTS / Computer Scientist (Adobe)
 
-    * Root cause analysis of portfolio spend issues.
+    * Root cause analysis of portfolio spend issues. Worked on automated monitoring of model prediction and built tools to interpret/diagnose the models.
     * Added new features to portfolio optimization which include attribution rules and Mobile Bid Adjustment (later device bid adjustments)
 
 Jun 2011 - Jun 2012
 :   Software Engineer (Efficient Frontier)
 
-    * Maintained revenue model and portfolio optimization across search, RTB and Social channels.
-    * Worked in onboarding new search engines (Yandex, Yahoo-JP, Y! Gemini) for portfolio optimization.
-    * Handled Bing Ads URL migration which involved splitting keyword match types.
+    * Maintained portfolio optimization across search, display and Social channels.
+    * Responsible for onboarding new search engines (Yandex, Yahoo-JP, Y! Gemini) for portfolio optimization.
 
 Oct 2009 - Aug 2011
 :   Quality Automation Engineer (Efficient Frontier)
 
-    * Automated testing for Rules based bidding, portfolio workflow, simulations and revenue feed parsing.
+    * Automated testing for Rules based bidding using robot framework, portfolio workflow, simulations and revenue feed parsing.
 
 May 2007 - Sep 2009
 :   Associate Software Engineer (Spike Source)
@@ -57,14 +57,20 @@ Education
 2003 - 2007
 :   Bachelor of Technology in Information Technology (2007), Madras Institute of Technology, Chennai.
 
+Certifications
+--------------
+2018
+: [DeepLearning.ai specialization][1]
+
 Personal Interests
 ------------------
-Gardening, [Photography][1]
+Gardening, [Photography][2]
 
 ----
 
->   <sathyz@gmail.com> • +91.998.095.8026 • [LinkedIn][2] \
+>   <sathyz@gmail.com> • +91.998.095.8026 • [LinkedIn][3] \
 >   Bangalore, India
 
-[1]: https://500px.com/sathyz "500px Photos"
-[2]: https://www.linkedin.com/in/sathyz/ "LinkedIn"
+[1]: https://www.coursera.org/account/accomplishments/specialization/XPG8ETH7PJNM "License XPG8ETH7PJNM"
+[2]: https://500px.com/sathyz "500px Photos"
+[3]: https://www.linkedin.com/in/sathyz/ "LinkedIn"
